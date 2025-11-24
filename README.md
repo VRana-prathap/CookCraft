@@ -15,7 +15,7 @@ A beautiful, responsive web app to discover delicious recipes using **TheMealDB 
 
 ## 🚀 Live Demo
 
-> **[View Live Demo]()**
+> **[View Live Demo](https://vrana-prathap.github.io/CookCraft/)**
 
 
 ## 🛠 How to Run Locally
