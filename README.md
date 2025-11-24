@@ -2,6 +2,10 @@
 
 A beautiful, responsive web app to discover delicious recipes using **TheMealDB API**. Search by name, first letter, category, cuisine, or ingredient — all in one place!
 
+## 🚀 Live Demo
+
+> **[View Live Demo](https://vrana-prathap.github.io/CookCraft/)**
+
 ## ✨ Features
 
 - 🔍 **Search by meal name**  
@@ -12,10 +16,6 @@ A beautiful, responsive web app to discover delicious recipes using **TheMealDB 
 - ℹ️ **Detailed recipe view** with instructions, ingredients, and YouTube video  
 - 📱 Fully responsive (mobile, tablet, desktop)  
 - 🎨 Appetizing warm color palette optimized for food lovers  
-
-## 🚀 Live Demo
-
-> **[View Live Demo](https://vrana-prathap.github.io/CookCraft/)**
 
 
 ## 🛠 How to Run Locally
